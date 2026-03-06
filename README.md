@@ -1,6 +1,6 @@
 # Global Sustainable Energy Analysis (2000–2020)
 **Project Overview**
-This project analyzes the global transition to clean energy, focusing on progress toward Sustainable Development Goal 7 (SDG 7). Using a dataset of 170+ countries, it tracks renewable adoption, electricity access, and carbon emission trends.
+--This project analyzes the global transition to clean energy, focusing on progress toward Sustainable Development Goal 7 (SDG 7). Using a dataset of 170+ countries, it tracks renewable adoption, electricity access, and carbon emission trends.
 
 **Core Objectives**
 - Monitor Access: Evaluated global electricity and clean cooking fuel availability.
