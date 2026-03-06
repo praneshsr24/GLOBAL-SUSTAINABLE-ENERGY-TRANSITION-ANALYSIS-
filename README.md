@@ -1,4 +1,4 @@
-![Global Sustainable Energy Analysis Dashboard](images/Global%20Sustainable%20Energy%20Analysis%20Dashboard.png)
+![Global Sustainable Energy Analysis Dashboard](images/GlobalSustainableEnergyAnalysisDashboard.png)
 # Global Sustainable Energy Analysis (2000–2020)
 **Project Overview**
 - This project analyzes the global transition to clean energy, focusing on progress toward Sustainable Development Goal 7 (SDG 7). Using a dataset of 170+ countries, it tracks renewable adoption, electricity access, and carbon emission trends.
@@ -10,7 +10,7 @@
 
 **Technical Stack**
 - Visualization: Power BI Desktop (Project Presentation.pbix).
-- Processing: Python (Pandas/NumPy) for ETL and data cleaning.
+- Processing: MS Excel for ETL and data cleaning.
 - Source: global-data-on-sustainable-energy (1).csv.
 
 **Key Features**
